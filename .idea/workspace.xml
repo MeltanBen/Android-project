@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="144a5ec9-1d70-4d9e-b530-fce080b3dd28" name="Changes" comment="[feat]Task1">
+      <change afterPath="$PROJECT_DIR$/LayoutLab/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/.idea/deviceManager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/androidTest/java/com/example/layoutlab/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/java/com/example/layoutlab/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/java/com/example/layoutlab/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/java/com/example/layoutlab/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/java/com/example/layoutlab/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/keepRules/rules.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/app/src/test/java/com/example/layoutlab/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutLab/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyApplication/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MeltanBen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MeltanBen/Android-project.git&quot;,
+    &quot;accountId&quot;: &quot;e85fd95c-0a34-44ec-8705-15d48ece4ee0&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JJEnrpNe68Qo0E2UOZy9kYyzXe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/AndroidProjects&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="144a5ec9-1d70-4d9e-b530-fce080b3dd28" name="Changes" comment="" />
+      <created>1789370940346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789370940346</updated>
+    </task>
+    <task id="LOCAL-00001" summary="[feat]Task1">
+      <option name="closed" value="true" />
+      <created>1789371541814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789371541814</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[feat]Task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat]Task1" />
+  </component>
+</project>

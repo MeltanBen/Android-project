@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">LayoutLab</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="one1">One,One</string>
+    <string name="one2">One,Two</string>
+    <string name="one3">One,Three</string>
+    <string name="one4">One,Four</string>
+
+    <string name="two1">Two,One</string>
+    <string name="two2">Two,Two</string>
+    <string name="two3">Two,Three</string>
+    <string name="two4">Two,Four</string>
+
+    <string name="three1">Three,One</string>
+    <string name="three2">Three,Two</string>
+    <string name="three3">Three,Three</string>
+    <string name="three4">Three,Four</string>
+
+    <string name="four1">Four,One</string>
+    <string name="four2">Four,Two</string>
+    <string name="four3">Four,Three</string>
+    <string name="four4">Four,Four</string>
+
+    <string name="hello">Hello TableLayout</string>
+    <string name="x">X</string>
+    <string name="open">Open…</string>
+    <string name="ctrlo">Ctrl+O</string>
+    <string name="save">Save…</string>
+    <string name="ctrls">Ctrl+S</string>
+    <string name="saveas">Save As…</string>
+    <string name="ctrlshs">Ctrl+Shift+S</string>
+    <string name="imp">Import…</string>
+    <string name="exp">Export…</string>
+    <string name="ctrle">Ctrl+E</string>
+    <string name="quit">Quit</string>
+
+    <string name="input">Input</string>
+    <string name="num">0.0</string>
+
+    <string name="space_station">Space Stations</string>
+    <string name="flights">Flights</string>
+    <string name="rovers">Rovers</string>
+    <string name="dca">DCA</string>
+    <string name="mars">MARS</string>
+
+</resources>
